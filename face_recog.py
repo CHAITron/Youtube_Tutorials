@@ -94,4 +94,4 @@ while True:
 
 #ล้างค่าต่างๆเมื่อปิดโปรแกรม
 video_capture.release()
-cv2.destroyAllwindow()
+cv2.destroyAllWindows()
